@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\drawable_clinic2.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\drawable\\clinic2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\drawable_list.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\drawable\\list.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\layout_activity_clinic_registration.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\layout\\activity_clinic_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\drawable_back.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.finalapp-debug-35:/layout_activity_add_appointment.xml.flat",
+        "source": "com.example.finalapp-main-37:/layout/activity_add_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\drawable_clinicimg.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\drawable\\clinicimg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\layout_activity_clinic.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\layout\\activity_clinic.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\drawable_health.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\drawable\\health.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\drawable_dr_image.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\drawable\\dr_image.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\layout_activity_add_appointment.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\layout\\activity_add_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\drawable_medical.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\drawable\\medical.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\drawable_health.gif.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\drawable\\health.gif"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\drawable_clinic.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\drawable\\clinic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\layout_activity_patient_clinic.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\layout\\activity_patient_clinic.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-debug-35:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.finalapp-main-37:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    }
+]
